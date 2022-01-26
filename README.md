@@ -8,5 +8,4 @@ RandomGenerator.RandomGenerator example = new RandomGenerator.RandomGenerator();
 //...
 
 example.RandomInteger(Minimum, Maximum);
-example.RandomFloat(Minimum, Maximum);
 example.RandomBoolean(); //This returns False or True
